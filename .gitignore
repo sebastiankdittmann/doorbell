@@ -1,0 +1,46 @@
+# Visual Studio Code
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.psess
+*.vspscc
+*.vssscc
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+
+# Resharper files
+_ReSharper*/
+*.resharper
+*.ReSharper.user
+
+# Other files
+*.log
+*.bak
+*.cache
+*.tmp
+*.db
+*.sqlite
+*.sqlite3
+*.sdf
+*.userprefs
+*.user
+
+# Ignore .DS_Store files on macOS
+.DS_Store
